@@ -1,0 +1,3 @@
+(library
+ (name facial_geometry)
+ (public_name facial-geometry))
